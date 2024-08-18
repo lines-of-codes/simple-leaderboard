@@ -22,6 +22,7 @@ listen on, such as `-addr ":8000"` to listen on port 8000.
 #### Prerequisites
 - git
 - go
+- gcc (required for sqlite3)
 
 To build the leaderboard server, 
 Clone the git repository: `git clone https://github.com/lines-of-codes/simple-leaderboard.git`
